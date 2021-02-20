@@ -1,0 +1,15 @@
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\bin\Debug\QuanLySanPhamLinQ.exe.config
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\bin\Debug\QuanLySanPhamLinQ.exe
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\bin\Debug\QuanLySanPhamLinQ.pdb
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\bin\Debug\DevComponents.DotNetBar2.dll
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\bin\Debug\DevComponents.DotNetBar2.xml
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\obj\Debug\QuanLySanPhamLinQ.csprojAssemblyReference.cache
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\obj\Debug\QuanLySanPhamLinQ.Properties.Resources.resources
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\obj\Debug\QuanLySanPhamLinQ.csproj.GenerateResource.cache
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\obj\Debug\QuanLySanPhamLinQ.csproj.CoreCompileInputs.cache
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\obj\Debug\QuanLySanPhamLinQ.csproj.CopyComplete
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\obj\Debug\QuanLySanPhamLinQ.exe
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\obj\Debug\QuanLySanPhamLinQ.pdb
+D:\0000C#\QuanLySanPhamLinQ\QuanLySanPhamLinQ\obj\Debug\QuanLySanPhamLinQ.frmMain.resources
